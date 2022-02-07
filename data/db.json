@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "body": "Lorem Ipsum...",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Meso me mua",
+      "body": "Lorem Ipsum...",
+      "author": "eriola",
+      "id": 2
+    },
+    {
+      "title": "Programim ne shqip",
+      "body": "Lorem Ipsum...",
+      "author": "luigi",
+      "id": 3
+    },
+    {
+      "title": "'My new website",
+      "body": "Lorem Ipsum...",
+      "author": "eriola",
+      "id": 4
+    }
+  ]
+}
